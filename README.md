@@ -1,2 +1,2 @@
-# PruebaCI_Onostre4C
+# PruebaCI_Onostre
 Repositorio para prueba de GitAction
